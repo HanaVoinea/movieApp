@@ -51,7 +51,9 @@ background-color: #1F1C18;
 
 main{
 	display: flex;
+	justify-content: center;
 	flex-wrap: wrap;
+	
 
 
 }
